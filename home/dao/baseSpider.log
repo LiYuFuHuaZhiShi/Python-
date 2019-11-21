@@ -1,0 +1,3 @@
+2019-11-14 08:15:45,900              ERROR   :execute failed: create table maoyan('id'varchar(8),            'title'varchar(50),            'star'varchar(200),             'time'varchar(100),primary key('id'));
+2019-11-14 08:16:42,945              ERROR   :execute failed: create table maoyan('id' varchar(8),            'title' varchar(50),            'star' varchar(200),             'time' varchar(100),primary key('id'));
+2019-11-14 08:17:16,667              ERROR   :execute failed: create table maoyan('id' varchar(8),            'title' varchar(50),            'star' varchar(200),             'time' varchar(100),primary key('id'));
